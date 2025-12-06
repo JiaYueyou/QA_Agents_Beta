@@ -211,14 +211,10 @@ A: 请检查：
 
 A: 请确保已安装streamlit，使用 `pip install streamlit` 命令安装。
 
-## 许可证
-
-MIT License
-
 ## 贡献
 
 欢迎提交Issue和Pull Request！
 
 ## 联系方式
 
-如有问题或建议，请联系项目维护者。
+如有问题或建议，请联系项目维护者1744372457@qq.com
